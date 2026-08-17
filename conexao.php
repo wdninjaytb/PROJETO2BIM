@@ -1,9 +1,9 @@
 <?php
 
-$servername = "192.168.15.78";
-$username = "nicolas";
-$password = "Tosawa@10!";
-$dbname = "kaerusiteprojeto";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "kaeru-admin";
 
 $conn = new mysqli(
     $servername,
