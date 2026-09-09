@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 $servername = "127.0.0.1";
+=======
+$servername = "localhost";
+>>>>>>> 72c4166ba15da22dbadd7aff4693346278f5da8c
 $username = "root";
 $password = "";
 $dbname = "kaeru-admin";
